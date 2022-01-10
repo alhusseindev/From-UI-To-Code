@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+.last_separator_section{
+  width: 100%;
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+
+.last_separator_section .top_title{
+  display: flex;
+  flex-direction: row;
+  margin-right: 2rem;
+}
+.separator_text{
+  font-size: 0.8rem;
+  color: gray;
+}
+
+.last_separator_section .text_style{
+  font-size: 5rem;
+  color: rgb(174, 181, 191);
+}
+
+
+.last_separator_section .text_style_climb{
+  font-size: 2.5rem;
+  color: rgb(61, 80, 112);
+}

@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.top_separator_section{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+
+.top_separator_section .top_links{
+  color: black;
+  margin-right: 3.5rem;
+}
+
+
+.logo_container{
+  display: flex;
+  align-items: center;
+}
+
+.logo_container .hero_text{
+  width: 12%;
+}
